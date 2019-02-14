@@ -18,8 +18,7 @@
 
 - Each link in your navigation needs to **route** to the corresponding _Component_ view.
 
-Your page should look something like [THIS](http://nervous-montalcini-7be7c0.netlify.com/).
+# Future changes: 
+* Ensure that page is styled correctly 
+* Use media queries
 
-- When completed, add and commit your changes and **push** to github.
-
-- Submit the URL to your repository once you complete the exercise.
